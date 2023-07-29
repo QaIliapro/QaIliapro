@@ -31,3 +31,12 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a> -->
   </div>
+  
+---
+
+### 💻 Сертификаты:
+
+<div>
+ <a href="ttps://gb.ru/certificates/2465108" target="_blank">
+ <img src="https://camo.githubusercontent.com/e33120be981423c3a67ea0fd71e05da413f486246543e882e4f6a89882c3c59c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d663736393335" title="git" alt="git" width="40" height="40"/>&nbsp
+  </a>
