@@ -46,3 +46,11 @@
 ### 💻 Технологии и инструменты 🛠:
 
 ---
+
+### Testing Artefacts
+
+- [Checklists]
+- [Test-Suites and Test-Cases]
+- [Bug-Reports]
+- [SQL Queries]
+- [Postman Collections]
