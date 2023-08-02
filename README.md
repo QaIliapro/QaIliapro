@@ -1,8 +1,7 @@
 
 # Привет, меня зовут Илья!
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500px">
 
- <img src="https://github.com/QaIliapro/QaIliapro/assets/139699477/32642ea4-e92c-412e-a3b9-dbb753fb7115"  width="500" height="250" alt="QA"/>
- 
 ---
 
 ### :man_technologist: Обо мне:
