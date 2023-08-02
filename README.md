@@ -44,7 +44,19 @@
 ---
 
 ### 💻 Технологии и инструменты 🛠:
-https://img.shields.io/badge/Jira-blue?logo=jira&logoColor=wite
+![Header](https://img.shields.io/badge/JIRA-black?logo=JIRA&logoColor=blue)
+
+![Header](https://img.shields.io/badge/POSTMAN-black?style=wite&logo=POSTMAN&logoColor=wite)
+
+![Header](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=wite)
+
+![Header](https://img.shields.io/badge/MySQL-black?logo=MySQL&logoColor=wite)
+
+![Header](https://img.shields.io/badge/DEVTOOLS-black?style=wite&logo=devtools&logoColor=orange)
+
+![Header](https://img.shields.io/badge/ANDROIDSTUDIO-black?style=wite&logo=ANDROIDSTUDIO&logoColor=3ad07d)
+
+![Header](https://img.shields.io/badge/GitKraken-black?style=wite&logo=GitKraken&logoColor=3ad07d)
 
 
 ---
