@@ -37,25 +37,43 @@
 ###  🧾Сертификаты:
 
 <div>
- <a href="https://gb.ru/certificates/2465108" target="_blank">
- <img src="https://img.shields.io/badge/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82-gitlab" title="git" alt="git" width="40" height="40"/>&nbsp
+<a href="https://gb.ru/certificates/2465108" target="_blank">
+Основы программирования. Начальный уровень
   </a>
-
+<div>
+ <a href="https://gb.ru/certificates/2454304" target="_blank">
+Входное тестирование
+  </a>
+<div>
+ <a href="https://gb.ru/certificates/2467550" target="_blank">
+Основы тестирования
+  </a>
+ <div>
+ <a href="https://gb.ru/certificates/2475100" target="_blank">
+Тестирование ПО. Уровень 1
+  </a>
+ <div>
+ <a href="https://gb.ru/certificates/2482201" target="_blank">
+ Тестирование веб-приложений
+  </a>
+ <div>
+ <a href="https://gb.ru/certificates/2483436" target="_blank">
+ Мобильное тестирование
+  </a>
+ <div>
+ <a href="https://gb.ru/certificates/2483549" target="_blank">
+  Основы тестирования Level 2
+  </a>
+   
 ---
 
 ### 💻 Технологии и инструменты 🛠:
 ![Header](https://img.shields.io/badge/JIRA-black?logo=JIRA&logoColor=blue)
-
 ![Header](https://img.shields.io/badge/POSTMAN-black?style=wite&logo=POSTMAN&logoColor=wite)
-
 ![Header](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=wite)
-
 ![Header](https://img.shields.io/badge/MySQL-black?logo=MySQL&logoColor=wite)
-
 ![Header](https://img.shields.io/badge/DEVTOOLS-black?style=wite&logo=devtools&logoColor=orange)
-
 ![Header](https://img.shields.io/badge/ANDROIDSTUDIO-black?style=wite&logo=ANDROIDSTUDIO&logoColor=3ad07d)
-
 ![Header](https://img.shields.io/badge/GitKraken-black?style=wite&logo=GitKraken&logoColor=3ad07d)
 
 
