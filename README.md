@@ -34,7 +34,7 @@
   
 ---
 
-### 💻 Сертификаты:
+###  🧾Сертификаты:
 
 <div>
  <a href="https://gb.ru/certificates/2465108" target="_blank">
@@ -44,6 +44,8 @@
 ---
 
 ### 💻 Технологии и инструменты 🛠:
+https://img.shields.io/badge/Jira-blue?logo=jira&logoColor=wite
+
 
 ---
 
