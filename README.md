@@ -79,7 +79,7 @@
 ![Header](https://img.shields.io/badge/REST%20API-black?logo=REST%20API&logoColor=3ad07d)
 
 ---
-ачпывап
+
 ### Testing Artefacts
 
 - [Checklists]
