@@ -1,4 +1,4 @@
-о
+
 # Привет, меня зовут Илья!
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500px">
 
