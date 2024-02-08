@@ -38,6 +38,11 @@
 ###  🧾Сертификаты:
 
 <div>
+<a href="https://stepik.org/cert/2343647" target="_blank">
+" target="_blank">
+Интерактивный тренажер по SQL
+  </a>
+<div>
 <a href="https://stepik.org/cert/2346526
 " target="_blank">
 Тестирование ПО: Postman для тестирования API
