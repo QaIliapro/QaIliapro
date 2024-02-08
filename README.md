@@ -39,7 +39,6 @@
 
 <div>
 <a href="https://stepik.org/cert/2343647" target="_blank">
-" target="_blank">
 Интерактивный тренажер по SQL
   </a>
 <div>
