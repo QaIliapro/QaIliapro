@@ -38,6 +38,10 @@
 ###  🧾Сертификаты:
 
 <div>
+<a href="https://gb.ru/certificates/2664251" target="_blank">
+Java. Средний уровень
+  </a>
+<div>
 <a href="https://gb.ru/certificates/2662823" target="_blank">
 Java. Начальный уровень
   </a>
