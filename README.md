@@ -39,52 +39,52 @@
 
 <div>
 <a href="https://gb.ru/certificates/2664251" target="_blank">
-Java. Средний уровень
+Java. Средний уровень»
   </a>
 <div>
 <a href="https://gb.ru/certificates/2662823" target="_blank">
-Java. Начальный уровень
+Java. Начальный уровень»
   </a>
 <div>
 <a href="https://stepik.org/cert/2343647" target="_blank">
-Интерактивный тренажер по SQL
+Интерактивный тренажер по SQL»
   </a>
 <div>
 <a href="https://stepik.org/cert/2346526
 " target="_blank">
-Тестирование ПО: Postman для тестирования API
+Тестирование ПО: Postman для тестирования API»
   </a>
 <div>
 <a href="https://stepik.org/cert/2347707" target="_blank">
-Jira: ведение задач на электронных досках
+Jira: ведение задач на электронных досках»
   </a>
 <div>
 <a href="https://gb.ru/certificates/2465108" target="_blank">
-Основы программирования. Начальный уровень
+Основы программирования. Начальный уровень»
   </a>
 <div>
  <a href="https://gb.ru/certificates/2454304" target="_blank">
-Входное тестирование
+Входное тестирование»
   </a>
 <div>
  <a href="https://gb.ru/certificates/2467550" target="_blank">
-Основы тестирования
+Основы тестирования»
   </a>
  <div>
  <a href="https://gb.ru/certificates/2475100" target="_blank">
-Тестирование ПО. Уровень 1
+Тестирование ПО. Уровень 1»
   </a>
  <div>
  <a href="https://gb.ru/certificates/2482201" target="_blank">
- Тестирование веб-приложений
+ Тестирование веб-приложений»
   </a>
  <div>
  <a href="https://gb.ru/certificates/2483436" target="_blank">
- Мобильное тестирование
+ Мобильное тестирование»
   </a>
  <div>
  <a href="https://gb.ru/certificates/2483549" target="_blank">
-  Основы тестирования Level 2
+  Основы тестирования Level 2»
   </a>
    
 ---
