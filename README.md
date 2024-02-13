@@ -38,6 +38,10 @@
 ###  🧾Сертификаты:
 
 <div>
+<a href="https://gb.ru/certificates/2666207" target="_blank">
+«Java EE»
+  </a>
+<div>
 <a href="https://gb.ru/certificates/2664248" target="_blank">
 «Java. Сложный уровень»
   </a>
